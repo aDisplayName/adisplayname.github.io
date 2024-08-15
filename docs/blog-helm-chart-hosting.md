@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Hosting Helm Chart with GitHub Pages"
 permalink: /blog/hosting-helm-chart-with-github-pages
 ---
